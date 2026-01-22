@@ -39,6 +39,8 @@ obj.z);
 obj.m3();
 System.out.printn(args[0]);
 System.out.println(args[0]+args[1]);
-System.out.println(Integer.parseInt(args[0]+Integer.parseInt(args[1]));
+System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+System.out.println("ASCII value of a: " + (int) a);        
+System.out.println("ASCII value of b: " + (int) b);
 }
 }
