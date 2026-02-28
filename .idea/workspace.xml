@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e51c62-f40b-4e59-b9d2-c94e666745ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DefaultMethodsInInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceImplementationAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankInterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommerceProductCategorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhoneContactApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlineFoodDeliveryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmartLibrarySystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
