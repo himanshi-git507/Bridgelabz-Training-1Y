@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7b5078f-bc37-40f7-8e53-08e4d5f5e4b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AgeValidatorProgram.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArrayExceptionProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankTransactionProgram.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CustomExceptionProgram.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DivisionProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionPropagation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileReaderProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinallyBlockProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterestCalculatorProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedTryCatchProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TryWithResourcesProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +53,17 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="BankTransactionSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankTransactionSystem" />
-      <module name="Bridgelabs-1Y" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
