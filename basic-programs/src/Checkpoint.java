@@ -19,3 +19,4 @@ abstract String getType();
 abstract double CalculatePenalty();
 }
 
+
